@@ -20,7 +20,7 @@ I'm a passionate computer science student with a knack for problem-solving and a
 ## Get in Touch 📫
 
 - **GitHub:** [Bruktawit](https://github.com/brukte123/brukte123)
-- **LinkedIn:** [Bruktawit](www.linkedin.com/in/bruktawit-wondmenew-3650b9279)
+- **LinkedIn:** [Bruktawit](https://www.linkedin.com/in/bruktawit-wondmenew-3650b9279)
 - **Email:** [bruktawitwondmenew@gmail.com](mailto:bruktawitwondmenew@gmail)
 
 Let's connect and collaborate on exciting projects together! 🌟
